@@ -1,0 +1,10 @@
+"Padrões de projeto são soluções reutilizáveis para problemas comuns em projetos de software. 
+Eles são interessantes e fascinantes para explorar em qualquer linguagem de programação.
+Uma razão para isso é que eles nos ajudam a construir a experiência combinada de muitos desenvolvedores que vieram antes de nós e a garantir 
+que estruturemos nosso código de maneira otimizada, atendendo às necessidades dos problemas que estamos tentando resolver."
+
+O padrão de projeto escolhido foi um dos padrões do tipo estrutural conhecido como adapter:
+
+Esse padrão traduz uma interface para um objeto ou classe em uma interface compatível com um sistema específico.
+Basicamente permitem que objetos ou classes funcionem juntos, o que normalmente não poderia devido às suas interfaces incompatíveis. 
+Ele converte as chamadas para sua interface em chamadas para a interface original e o código necessário para conseguir isso geralmente é mínimo.
